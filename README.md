@@ -1,3 +1,21 @@
+CourseNest is a full-stack learning platform inspired by Udemy. It allows users to explore a collection of curated tech courses, register for an account, and securely purchase access to course content using simulated payment methods. Once enrolled, users can view the full course content, including video lectures embedded directly into the platform.
+
+This project is built using the MERN-like stack with PostgreSQL, demonstrating real-world full-stack architecture, token-based authentication, protected routes, and integration between frontend and backend systems.
+
+It is designed with the following goals:
+
+1. Secure user authentication using JWT
+
+2. Simulated multi-method payment system
+
+3. Protected course player for authenticated users
+
+4. Smooth user experience with modals and real-time routing
+
+The frontend is built in React with dynamic routing and protected views. The backend, powered by Node.js, Express, and PostgreSQL, manages authentication, storage, and user data. This project emphasizes learning-by-building and mimics the workflow of professional full-stack application development.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
